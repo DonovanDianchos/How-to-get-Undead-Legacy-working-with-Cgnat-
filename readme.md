@@ -16,7 +16,6 @@ serverplatforms=Steam,XBL,
 1. Download and install [Zerotier](https://www.zerotier.com/download/)
 2. If Zerotier wants any access just provide it so it can do its VPN job properly
 3. You should now see in your taskbar a small sand colored square right click it and select `join new network` now input this network ID: `1c33c1ced095` and add the Zerotier information from our Whatsapp groupdescription and click join. e.g `1c33c1ced0954444` "4444" is the added example bit.
-4. If you want to enable autostart check the `start UI at login`
 
 Info: It could happen that your PC asks you If you allow access to a network in windows fashion with a big Blue Bar on the right hand side, allow the connection, that is our private network.
 
@@ -26,3 +25,6 @@ Info: It could happen that your PC asks you If you allow access to a network in 
 3. Choose `connect with ip` and input as IP `172.28.99.11` as port please use `27015`
 4. Click Connect and type in our serverpassword.
 5. Happy Hunting
+
+# Important information:
+DONT FORGET TO DISCONNECT FROM THE VPN NETWORK AFTER PLAYING. Just so you dont have issues like me, who wanted to play palworld with my wife but I couldnt join the LAN world. 
