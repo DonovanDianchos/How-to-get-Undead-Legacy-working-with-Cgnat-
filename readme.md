@@ -1,3 +1,9 @@
+# how to install 7d2d modlauncher
+download and install the modlauncher here
+https://7d2dmodlauncher.org/ 
+
+## Select as overhaul mod "undead legacy" 
+
 # Set up guide for everything you need to play with me Undead Legacy
 With this guide you can install everything on your own without assistance from me. The IT guy that dont know IT that much, anyway, 
 
@@ -18,6 +24,10 @@ serverplatforms=Steam,XBL,
 3. You should now see in your taskbar a small sand colored square right click it and select `join new network` now input this network ID: `1c33c1ced095` and add the Zerotier information from our Whatsapp groupdescription and click join. e.g `1c33c1ced0954444` "4444" is the added example bit.
 
 Info: It could happen that your PC asks you If you allow access to a network in windows fashion with a big Blue Bar on the right hand side, allow the connection, that is our private network.
+
+#Installing the Poi mods
+Download the mediafire link
+Move the folder inside the zip into your undead legacy "mods" folder
 
 ## Connecting to the Server 
 1. Start Undead Legacy.
